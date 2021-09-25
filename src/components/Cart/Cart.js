@@ -2,7 +2,6 @@ import React from 'react';
 import './Cart.css'
 const Cart = (props) => {
     const { cart } = props
-    console.log(cart)
     let costAmount = 0;
     for (const cost of cart) {
         costAmount = costAmount + parseInt(cost.salary)

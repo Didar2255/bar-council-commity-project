@@ -4,8 +4,11 @@ import Member from '../Member/Member';
 import './Commite.css'
 
 const Commite = () => {
+    // member section state
     const [members, setMembers] = useState([])
+    // set data in cart
     const [cart, setCart] = useState([])
+    // Load data from commite.Json
     useEffect(() => {
         fetch('./committee.JSON')
             .then(res => res.json())
@@ -19,6 +22,7 @@ const Commite = () => {
 
     return (
         <div className='container my-5' >
+            {/* All member data */}
             <div className="row">
                 <div className="col-md-9">
                     <div className="row g-4">
@@ -29,6 +33,7 @@ const Commite = () => {
                         ></Member>)}
                     </div>
                 </div>
+                {/* Show data in cart */}
                 <div className="col-md-3">
                     <Cart
                         cart={cart}

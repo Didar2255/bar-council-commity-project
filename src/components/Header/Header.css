@@ -3,3 +3,6 @@
     color: rgb(237, 238, 250);
     padding: 10px;
 }
+.manu-bar a:hover{
+    background-color: lightgray;
+}

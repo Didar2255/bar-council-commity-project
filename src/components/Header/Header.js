@@ -11,10 +11,10 @@ const Header = () => {
                         <span class="navbar-toggler-icon"></span>
                     </button>
                     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-                        <div class="navbar-nav">
-                            <a class="nav-link active" aria-current="page" href="/#">Home</a>
-                            <a class="nav-link active" href="/#">Member of Cuncil</a>
-                            <a class="nav-link active" href="/#">About</a>
+                        <div class="navbar-nav manu-bar">
+                            <a class="nav-link active" aria-current="page" href="/home">Home</a>
+                            <a class="nav-link active" href="/member">Member of Cuncil</a>
+                            <a class="nav-link active" href="/about">About</a>
                         </div>
                     </div>
                 </div>
