@@ -1,0 +1,142 @@
+[
+    {
+        "id": 566,
+        "img": "https://www.barcouncil.gov.bd/wp-content/uploads/2015/09/2-150x150.jpg",
+        "name": "Mohammad Yusuf",
+        "designation": "Vice Chairman",
+        "job_exprience": "20 year",
+        "age": 50,
+        "salary": 70000,
+        "address": "Purana Paltan , Dhaka"
+    },
+    {
+        "id": 568,
+        "img": "https://www.barcouncil.gov.bd/wp-content/uploads/2015/09/3-1-150x150.jpg",
+        "name": "Syed Rezaur Rahman",
+        "designation": "Chairman Executice",
+        "job_exprience": "22 year",
+        "age": 53,
+        "salary": 650000,
+        "address": "Dhaka Bar Building , Dhaka"
+    },
+    {
+        "id": 567,
+        "img": "https://www.barcouncil.gov.bd/wp-content/uploads/Qamrul-150x150.jpg",
+        "name": "MD Qamrul Islam",
+        "designation": "Chairman Finance",
+        "job_exprience": "18 year",
+        "age": 48,
+        "salary": 63000,
+        "address": "Mohammadpur , Dhaka"
+    },
+    {
+        "id": 569,
+        "img": "https://www.barcouncil.gov.bd/wp-content/uploads/2015/09/5-150x150.jpg",
+        "name": "Md. Nazibullah Hiru",
+        "designation": "Chairman Legal Education",
+        "job_exprience": "25 year",
+        "age": 45,
+        "salary": 60000,
+        "address": "Rajar Dewri,Dhaka"
+    },
+    {
+        "id": 570,
+        "img": "https://www.barcouncil.gov.bd/wp-content/uploads/2015/09/7-1-150x150.jpg",
+        "name": "Md.Muklesur Rahman",
+        "designation": "Chairman Human Right",
+        "job_exprience": "25 year",
+        "age": 50,
+        "salary": 63000,
+        "address": ", Supreme Court Bar Association, Dhaka"
+    },
+    {
+        "id": 571,
+        "img": "https://www.barcouncil.gov.bd/wp-content/uploads/2019/02/Parvez-Alam-Khan-150x150.jpg",
+        "name": "Parvez Alam Khan",
+        "designation": "Chairman House",
+        "job_exprience": "21 year",
+        "age": 43,
+        "salary": 60000,
+        "address": "Kabi Nazrul Sarak ,Khulna"
+    },
+    {
+        "id": 572,
+        "img": "https://www.barcouncil.gov.bd/wp-content/uploads/2015/09/9-1-150x150.jpg",
+        "name": "Md.Kabiruddin Bhuyan",
+        "designation": "Chairman Relief",
+        "job_exprience": "30 year",
+        "age": 60,
+        "salary": 80000,
+        "address": "Mymensingh Sadar, Mymensingh"
+    },
+    {
+        "id": 573,
+        "img": "https://www.barcouncil.gov.bd/wp-content/uploads/2015/09/10-150x150.jpg",
+        "name": "Md.Yehya Khan",
+        "designation": "Chairman Roll & Publication",
+        "job_exprience": "28 year",
+        "age": 63,
+        "salary": 50000,
+        "address": "Rajshahi Court, Rajshahi"
+    },
+    {
+        "id": 574,
+        "img": "https://www.bcpcl.org.bd/img/board-of-directors/Engr_Belayet_Hossain.jpg",
+        "name": "Md.Abdur Rahman",
+        "designation": "Chairman Complaint & Vigilance",
+        "job_exprience": "25 year",
+        "age": 50,
+        "salary": 70000,
+        "address": "Rongpur Sadar, Rongpur"
+    },
+    {
+        "id": 575,
+        "img": "https://www.barcouncil.gov.bd/wp-content/uploads/2015/09/15-1-150x150.jpg",
+        "name": "A.F Mintu Haqu",
+        "designation": "Chairman Low Reform",
+        "job_exprience": "23 year",
+        "age": 47,
+        "salary": 46000,
+        "address": "Sylhet District"
+    },
+    {
+        "id": 576,
+        "img": "https://www.barcouncil.gov.bd/wp-content/uploads/2015/09/12-150x150.jpg",
+        "name": "Abdul Baset Majumdar",
+        "designation": "Member",
+        "job_exprience": "35 year",
+        "age": 65,
+        "salary": 49000,
+        "address": " Banani,Dhaka"
+    },
+    {
+        "id": 577,
+        "img": "https://lh3.googleusercontent.com/proxy/8i3qAbaX4WP3p0hocTutZip25jVyaU0xVXwgXzfvOLbtn4CEREXqQdqE84SOZDGU56ff2MEZiKxDKRvM73bcTsiUb3oQT1Z1yuwNIbtcwerRljVrug",
+        "name": "Md Mujibul Haque",
+        "designation": "Member",
+        "job_exprience": "26 year",
+        "age": 49,
+        "salary": 42000,
+        "address": " Banani,Dhaka"
+    },
+    {
+        "id": 578,
+        "img": "https://lh3.googleusercontent.com/proxy/mVp2Y-ueBeS3UwCR5blUSaM2RIbv0huF9A-EAUfP_2qHurQGmrESXZ3elp1TvkU0Xwhhh9fZY-4f6hXWx19vWLLh6Mb8NAkyJYy4WA",
+        "name": "Md. Khasruzzaman",
+        "designation": "Member",
+        "job_exprience": "28 year",
+        "age": 48,
+        "salary": 50000,
+        "address": " Mirpur,Dhaka"
+    },
+    {
+        "id": 580,
+        "img": "https://www.barcouncil.gov.bd/wp-content/uploads/2019/02/Z-I-Pannna-150x150.jpg",
+        "name": "Z.I Khan Pannah",
+        "designation": "Member",
+        "job_exprience": "30 year",
+        "age": 60,
+        "salary": 60000,
+        "address": "Kalabagan, Dhaka"
+    }
+]
