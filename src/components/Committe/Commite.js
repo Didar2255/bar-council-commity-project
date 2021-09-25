@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Cart from '../Cart/Cart';
 import Member from '../Member/Member';
+import './Commite.css'
 
 const Commite = () => {
     const [members, setMembers] = useState([])
