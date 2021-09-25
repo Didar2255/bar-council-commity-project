@@ -16,7 +16,7 @@ const Member = (props) => {
                         <p>Work Exprience : {job_exprience}</p>
                         <p>Salary : <small>{salary}</small></p>
                         <p>Home Address : {address}</p>
-                        <button className='btn-primary'> <FontAwesomeIcon icon={faInfoCircle} /> See Details</button>
+                        <button className='btn-primary' onClick={() => props.hendelButton(props.member)}> <FontAwesomeIcon icon={faInfoCircle} /> See Details</button>
                     </div>
                 </div>
             </div>

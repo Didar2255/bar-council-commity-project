@@ -6,7 +6,7 @@
         "designation": "Vice Chairman",
         "job_exprience": "20 year",
         "age": 50,
-        "salary": 70000,
+        "salary": 30000,
         "address": "Purana Paltan , Dhaka"
     },
     {
@@ -16,7 +16,7 @@
         "designation": "Chairman Executice",
         "job_exprience": "22 year",
         "age": 53,
-        "salary": 650000,
+        "salary": 28000,
         "address": "Dhaka Bar Building , Dhaka"
     },
     {
@@ -26,7 +26,7 @@
         "designation": "Chairman Finance",
         "job_exprience": "18 year",
         "age": 48,
-        "salary": 63000,
+        "salary": 25000,
         "address": "Mohammadpur , Dhaka"
     },
     {
@@ -36,18 +36,18 @@
         "designation": "Chairman Legal Education",
         "job_exprience": "25 year",
         "age": 45,
-        "salary": 60000,
+        "salary": 25000,
         "address": "Rajar Dewri,Dhaka"
     },
     {
         "id": 570,
         "img": "https://www.barcouncil.gov.bd/wp-content/uploads/2015/09/7-1-150x150.jpg",
-        "name": "Md.Muklesur Rahman",
+        "name": "Md.Muklesur",
         "designation": "Chairman Human Right",
         "job_exprience": "25 year",
         "age": 50,
-        "salary": 63000,
-        "address": ", Supreme Court Bar Association, Dhaka"
+        "salary": 23000,
+        "address": ", Supreme Court, Dhaka"
     },
     {
         "id": 571,
@@ -56,7 +56,7 @@
         "designation": "Chairman House",
         "job_exprience": "21 year",
         "age": 43,
-        "salary": 60000,
+        "salary": 22000,
         "address": "Kabi Nazrul Sarak ,Khulna"
     },
     {
@@ -66,8 +66,8 @@
         "designation": "Chairman Relief",
         "job_exprience": "30 year",
         "age": 60,
-        "salary": 80000,
-        "address": "Mymensingh Sadar, Mymensingh"
+        "salary": 26000,
+        "address": "Mymensingh"
     },
     {
         "id": 573,
@@ -76,7 +76,7 @@
         "designation": "Chairman Roll & Publication",
         "job_exprience": "28 year",
         "age": 63,
-        "salary": 50000,
+        "salary": 24000,
         "address": "Rajshahi Court, Rajshahi"
     },
     {
@@ -86,17 +86,17 @@
         "designation": "Chairman Complaint & Vigilance",
         "job_exprience": "25 year",
         "age": 50,
-        "salary": 70000,
+        "salary": 26000,
         "address": "Rongpur Sadar, Rongpur"
     },
     {
         "id": 575,
         "img": "https://www.barcouncil.gov.bd/wp-content/uploads/2015/09/15-1-150x150.jpg",
-        "name": "A.F Mintu Haqu",
+        "name": "Mintu Haqu",
         "designation": "Chairman Low Reform",
         "job_exprience": "23 year",
         "age": 47,
-        "salary": 46000,
+        "salary": 29000,
         "address": "Sylhet District"
     },
     {
@@ -106,7 +106,7 @@
         "designation": "Member",
         "job_exprience": "35 year",
         "age": 65,
-        "salary": 49000,
+        "salary": 27000,
         "address": " Banani,Dhaka"
     },
     {
@@ -116,7 +116,7 @@
         "designation": "Member",
         "job_exprience": "26 year",
         "age": 49,
-        "salary": 42000,
+        "salary": 23000,
         "address": " Banani,Dhaka"
     },
     {
@@ -126,17 +126,17 @@
         "designation": "Member",
         "job_exprience": "28 year",
         "age": 48,
-        "salary": 50000,
+        "salary": 22000,
         "address": " Mirpur,Dhaka"
     },
     {
         "id": 580,
         "img": "https://www.barcouncil.gov.bd/wp-content/uploads/2019/02/Z-I-Pannna-150x150.jpg",
-        "name": "Z.I Khan Pannah",
+        "name": "Z.I Pannah",
         "designation": "Member",
         "job_exprience": "30 year",
         "age": 60,
-        "salary": 60000,
+        "salary": 24000,
         "address": "Kalabagan, Dhaka"
     }
 ]
