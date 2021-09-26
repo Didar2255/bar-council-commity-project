@@ -2,12 +2,14 @@
     max-height: 700px;
 }
 .cart-body {
-    background-color:rgba(255, 244, 227, 0.775);
+    background-color:rgba(66, 93, 128, 0.926);
 }
 .button{
-    background-color: rgb(240, 35, 62);
+    background-color: rgb(242, 123, 44);
     border: none;
     border-radius: 5px;
     color: whitesmoke;
     font-weight: 500;
+    width: 150px;
+    margin-left: 40px;
 }

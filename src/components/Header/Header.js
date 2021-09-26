@@ -20,7 +20,7 @@ const Header = () => {
                 </div>
             </nav>
             <h1>Bangladesh Bar Council Association</h1>
-            <h2>Total Budget : 5 Milion</h2>
+            <h2>Total Fund Budget : 5 Milion</h2>
         </div>
     );
 };

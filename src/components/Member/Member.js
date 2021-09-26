@@ -9,7 +9,7 @@ const Member = (props) => {
     return (
         <div className="col-md-4">
             <div className="col card shadow border border-0">
-                <div className="card h-100 cart-body  ">
+                <div className="card h-100 cart-body text-white border border-0 ">
                     <img src={img} className="card-img-top" alt="..." />
                     <div className="card-body">
                         <h4 className="card-title">Name : {name}</h4>

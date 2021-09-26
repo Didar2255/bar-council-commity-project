@@ -8,8 +8,10 @@ const Cart = (props) => {
     }
     return (
         <div className='cart-container shadow'>
-            <h2>Total Member : <small>{cart.length}</small></h2>
-            <h4>Total Amount of Cost : $ <small>{costAmount}</small></h4>
+            <h3>Monthly fund cost :</h3>
+            <p>Total Member : <small>{cart.length}</small></p>
+            <p>Total cost amount: $ <small>{costAmount}</small></p>
+            <h5>Add member name :</h5>
             <p>{cart.map(pd => <li>{pd.name}</li>)}</p>
         </div>
     );
